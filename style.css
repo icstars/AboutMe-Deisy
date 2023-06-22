@@ -11,12 +11,15 @@ body {
 }
 
 .links-container {
-  height: 50px;
+  height: 70px;
   margin: 10px;
   background-color: black;
   width: 100%;
+  display: block;
 }
 
 .links-container-button {
-  background-color: aqua;
+  background-color: ;
 }
+
+.links-container-button;
