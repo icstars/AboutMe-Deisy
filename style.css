@@ -6,7 +6,7 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
-  text-align: center;
+  text-align: left;
   flex-direction: column;
 }
 
@@ -20,4 +20,17 @@ body {
 
 .links-container-button {
   background-color: opaque;
+}
+
+footer {
+  text-align: left;
+  height: 70px;
+  width: 100%;
+  background-color: rgb(209, 240, 234);
+  text-align: left;
+  font-size: 10px;
+}
+
+.contactme {
+  color: antiquewhite;
 }
